@@ -22,6 +22,7 @@ public class MainLoop : MonoBehaviour {
     // Posición Z del lanzamiento de la piedra
     public float minZ = -5.0f, maxZ = 5.0f;
 
+    // changes
     void Start () {
 		
 	}
